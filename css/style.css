@@ -148,8 +148,12 @@ img {
     .why-us{
         background-color: #222222;
         padding-top: 35px;
+        margin-bottom: 0;
     }
     .steps{
         margin-bottom: 0;
+    }
+    .steps .col{
+        width: 100%;
     }
 }
